@@ -9,7 +9,7 @@ I am a biostatistics Ph.D. student at New York University, my thesis advisors ar
 
 ## Research Interests
 
-- **Causal inference** , **nonparametric statistical methods**, **semiparametric theory**, **data science** and **machine learning** with applications.  
+- **Causal inference**, **nonparametric statistical methods**, **semiparametric theory**, **data science** and **machine learning** with applications.  
 
 ## Employment
 
