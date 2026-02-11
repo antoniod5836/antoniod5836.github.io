@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at New York University, my thesis advisors are Michele Santacatterina and Samrachana Adhikari. 
+I am a Ph.D. student at New York University, my thesis advisors are [Michele Santacatterina](https://michelesantacatterina.github.io/) and [Samrachana Adhikari](https://samrachana.com/). 
 
 ## Research Interests
 
