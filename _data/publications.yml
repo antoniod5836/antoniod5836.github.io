@@ -1,7 +1,7 @@
 main:
 
   - title: Modern causal infernce methods for improved power in randomized controlled trials
-    authors: <strong>Antonio DAlessandro </strong>, Jiyu Kim, Samrachana Adhikari, Donald Goff, Falco J. Bargagli-Stoffi, and Michele Santacatterina
+    authors: <strong>Antonio D'Alessandro </strong>, Jiyu Kim, Samrachana Adhikari, Donald Goff, Falco J. Bargagli-Stoffi, and Michele Santacatterina
     # conference_short: MICCAI
     # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2505.08960.pdf
