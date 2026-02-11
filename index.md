@@ -4,12 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at New York University, my thesis advisors are Michele Santacatterina and Samrachana Adhikari. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Causal inference:** 
+- **Nonparametric statistics:** 
+- **Data science:** 
 
 ## News
 
