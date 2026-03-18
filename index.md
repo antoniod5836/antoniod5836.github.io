@@ -19,7 +19,5 @@ I'm a biostatistics Ph.D. student at New York University and my thesis advisors 
 2. A. D'Alessandro, S. Adhikari, M. Santacatterina: [Causal Surival Analysis in Platform Trials with Non-Concurrent Controls.](https://arxiv.org/pdf/2603.10989)
 3. H. Susmann, A. D'Alessandro: [The Counterfactual Combine: A Causal Framework for Player Evaluation.](https://arxiv.org/pdf/2602.23233)
 
-## Typography
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
 
