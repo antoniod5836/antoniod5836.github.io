@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-I'm a biostatistics Ph.D. student at New York University and my thesis advisors are [Michele Santacatterina](https://michelesantacatterina.github.io/) and [Samrachana Adhikari](https://samrachana.com/). Previously I was an undergraduate at CUNY - Queens College where I completed my B.A. in mathematics. My research focuses on the development and application of causal inference and data science methods using both experimental and observational data. Past projects have included methods for improving precision when estimating heterogenous treatment effects, developing new doubly robust mehtods for time-to-event outcomes in platform designs, and new methods for longitudinal studies with missing data. 
+I'm currently a biostatistics Ph.D. student at New York University and my thesis advisors are [Michele Santacatterina](https://michelesantacatterina.github.io/) and [Samrachana Adhikari](https://samrachana.com/). Previously I was an undergraduate at CUNY - Queens College where I completed my B.A. in mathematics. My research focuses on the development and application of causal inference and data science methods using both experimental and observational data. Past projects have included methods for improving precision when estimating heterogenous treatment effects, developing new doubly robust mehtods for time-to-event outcomes in platform designs, and new methods for longitudinal studies with missing data. 
 
 ## Research Interests
 
