@@ -4,20 +4,21 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+I'm a biostatistics Ph.D. student at New York University and my thesis advisors are Michele Santacatterina and Samrachana
+Adhikari. Previously I was an undergraduate at CUNY - Queens College where I completed my B.A. in mathematics. My research focuses on the development and application of causal inference and data science methods using both experimental and observational data. Past projects have included methods for improving precision when estimating heterogenous treatment effects, developing new doubly robust mehtods for time-to-event outcomes in platform designs, and new methods for longitudinal studies with missing data. 
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+## Research Interests
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
-
-## Research Interest
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+* causal inference
+* semiparametric theory
+* machine learning
+* statistics and data science applications to professional sports
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. A. D'Alessandro, J. Kim, S. Adhikari, D. Goff, F. Bargagli-Stoffi, M. Santacatterina: Modern Causal Inference Methods for Imrpoved Power in Randomized Controlled Trials. 
+2. A. D'Alessandro, S. Adhikari, M. Santacatterina: Causal Surival Analysis in Platform Trials with Non-Concurrent Controls.
+3. H. Susmann, A. D'Alessandro: The Counterfactual Combine: A Causal Framework for Player Evaluation.
 
 ## Typography
 
