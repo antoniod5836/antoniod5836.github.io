@@ -17,9 +17,9 @@ My research focuses on the development and application of causal inference and d
 
 ## Publications
 
-1. A. D'Alessandro, J. Kim, S. Adhikari, D. Goff, F. Bargagli-Stoffi, M. Santacatterina: [Modern Causal Inference Methods for Imrpoved Power in Randomized Controlled Trials.](https://arxiv.org/pdf/2505.08960). Statistics in Medicine 2026.  
-2. A. D'Alessandro, S. Adhikari, M. Santacatterina: [Causal Surival Analysis in Platform Trials with Non-Concurrent Controls.](https://arxiv.org/pdf/2603.10989). Under Review. 
-3. H. Susmann, A. D'Alessandro: [The Counterfactual Combine: A Causal Framework for Player Evaluation.](https://arxiv.org/pdf/2602.23233). Under Review.
+1. A. D'Alessandro, J. Kim, S. Adhikari, D. Goff, F. Bargagli-Stoffi, M. Santacatterina: [Modern Causal Inference Methods for Imrpoved Power in Randomized Controlled Trials.](https://arxiv.org/pdf/2505.08960). *Statistics in Medicine, 2026*.  
+2. A. D'Alessandro, S. Adhikari, M. Santacatterina: [Causal Surival Analysis in Platform Trials with Non-Concurrent Controls.](https://arxiv.org/pdf/2603.10989). *Under Review*. 
+3. H. Susmann, A. D'Alessandro: [The Counterfactual Combine: A Causal Framework for Player Evaluation.](https://arxiv.org/pdf/2602.23233). *Under Review*.
 
 
 
