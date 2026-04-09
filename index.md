@@ -13,7 +13,8 @@ My research focuses on the development and application of causal inference and d
 * causal inference
 * semiparametric theory
 * machine learning
-* statistics and data science applications to professional sports
+* bayesian statistics
+* data science applications to professional sports
 
 ## Publications
 
